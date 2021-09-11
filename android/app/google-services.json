@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946894337931",
+    "project_id": "messanger-63ad9",
+    "storage_bucket": "messanger-63ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946894337931:android:55c7bc8c87e34ea731218e",
+        "android_client_info": {
+          "package_name": "com.himank.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946894337931-fqo07asifbl4e5h0ibqk48a3hf57v43v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaczqsrRNJtZSwx-xwLDnsg-pLgEhhJGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946894337931-fqo07asifbl4e5h0ibqk48a3hf57v43v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
